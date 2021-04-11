@@ -19,4 +19,5 @@ Install the following packages before running the program
 
 
 ## Usage
+![image](https://user-images.githubusercontent.com/80922524/114295950-627e1c00-9a5d-11eb-84a2-1c2ed4d46257.png)
 
